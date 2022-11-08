@@ -1,0 +1,4 @@
+../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_ll_gpio.h:268:22:LL_GPIO_SetPinMode	24	static
+../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_ll_gpio.h:839:22:LL_GPIO_SetOutputPin	16	static
+../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_ll_gpio.h:868:22:LL_GPIO_ResetOutputPin	16	static
+../Core/Src/leds.c:43:6:setLed	24	static
